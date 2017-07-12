@@ -4,7 +4,8 @@ A simple demo of a minimal RAP/RWT project, with instructions for deploying to J
 *** Create and Deploy Eclipse RWT[1] Application to Jetty ***
 
 1. Install Eclipse Java EE Developer Tools, Eclipse Java Web Developer Tools, Eclipse Web Developer Tools
-   (Note: possibly, only Eclipse Java EE Developer Tools are required.)
+   (Note: possibly, only Eclipse Java EE Developer Tools are required.) If you like editing forms visually,
+   install WindowBuilder from the Eclipse Marketplace.
    
 2. Download latest Eclipse RAP bundle and extract JAR org.eclipse.rap.rwt_*.jar
    As of this writing it's org.eclipse.rap.rwt_3.2.0.20170609-1144.jar
